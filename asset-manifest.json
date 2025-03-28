@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KarthiProtfolio/static/css/main.a91f700a.css",
+    "main.js": "/KarthiProtfolio/static/js/main.9214bcff.js",
+    "static/media/person-4.png": "/KarthiProtfolio/static/media/person-4.9e124d2b9c8e50e6b530.png",
+    "static/media/brush.png": "/KarthiProtfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/KarthiProtfolio/index.html",
+    "main.a91f700a.css.map": "/KarthiProtfolio/static/css/main.a91f700a.css.map",
+    "main.9214bcff.js.map": "/KarthiProtfolio/static/js/main.9214bcff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a91f700a.css",
+    "static/js/main.9214bcff.js"
+  ]
+}
