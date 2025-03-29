@@ -9,7 +9,7 @@ export const FooterSocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="linkedin-link" src="../assets/linkedinblack.png " className='w-10 h-10' />
+        <img alt="linkedin-link" src="/assets/linkedinblack.png " className='w-10 h-10' />
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
