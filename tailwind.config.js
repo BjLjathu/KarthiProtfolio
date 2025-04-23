@@ -30,6 +30,7 @@ module.exports = {
         person2: "url('./assets/person-2.jpg')",
         person3: "url('./assets/person-3.jpg')",
         person4: "url('./assets/person-4.png')",
+        project1: "url(./assets/project-1.jpg)"
       },
     },
     screens: {

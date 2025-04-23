@@ -1,5 +1,8 @@
 import React from 'react'
-
+import LinkedIn from '../assets/linkedinblack.png'
+import Twiter from '../assets/twitterblack.png'
+import FaceBook from '../assets/facebookblack.png'
+import Instagram from '../assets/instagramblack.png'
 export const FooterSocialMediaIcons = () => {
   return (
     <div className="flex justify-center md:justify-start my-5 gap-7 max-w-[1440px]  ">
@@ -9,7 +12,7 @@ export const FooterSocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="linkedin-link" src="/assets/linkedinblack.png " className='w-10 h-10' />
+        <img alt="linkedin-link" src={LinkedIn} className='w-10 h-10' />
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
@@ -17,7 +20,7 @@ export const FooterSocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="twitter-link" src="../assets/twitterblack.png " className='w-10 h-10' />
+        <img alt="twitter-link" src={Twiter} className='w-10 h-10' />
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
@@ -25,7 +28,7 @@ export const FooterSocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="facebook-link" src="../assets/facebookblack.png"  className='w-10 h-10'/>
+        <img alt="facebook-link" src={FaceBook}  className='w-10 h-10'/>
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
@@ -33,7 +36,7 @@ export const FooterSocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="instagram-link" src="../assets/instagramblack.png" className='w-10 h-10' />
+        <img alt="instagram-link" src={Instagram} className='w-10 h-10' />
       </a>
     </div>
   )
