@@ -28,7 +28,7 @@ const Project = ({ title ,subTitle}) => {
           {subTitle}
         </p>
       </div>
-      <img src={`/assets/${projectTitle}.jpg`} alt={projectTitle} />
+      <img src={`${process.env.PUBLIC_URL}/assets/${projectTitle}.jpg`} alt={projectTitle} />
     </motion.div>
   );
 };
@@ -111,7 +111,7 @@ const Projects = () => {
           </div>
         </motion.div>
       </div>
-      <img src={`/assets/project-1.jpg`} alt="project-1" />
+
     </section>
   );
 };
