@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/KarthiProtfolio/static/css/main.154d7fd3.css",
-    "main.js": "/KarthiProtfolio/static/js/main.d05acfb3.js",
+    "main.css": "/KarthiProtfolio/static/css/main.eedc6055.css",
+    "main.js": "/KarthiProtfolio/static/js/main.c36f6a70.js",
     "static/media/profile-image.png": "/KarthiProtfolio/static/media/profile-image.94a2ad5f14a122bfd103.png",
     "static/media/skills-image.png": "/KarthiProtfolio/static/media/skills-image.51e40da64df180a7669a.png",
     "static/media/contact-image.jpeg": "/KarthiProtfolio/static/media/contact-image.37fcb61b49d6aa5c40d3.jpeg",
@@ -12,11 +12,11 @@
     "index.html": "/KarthiProtfolio/index.html",
     "static/media/close-icon.svg": "/KarthiProtfolio/static/media/close-icon.432ea5a6e3d2320342c0044e59de2d15.svg",
     "static/media/menu-icon.svg": "/KarthiProtfolio/static/media/menu-icon.e574f36b7d7842f3b97bc3c0c5f39ccc.svg",
-    "main.154d7fd3.css.map": "/KarthiProtfolio/static/css/main.154d7fd3.css.map",
-    "main.d05acfb3.js.map": "/KarthiProtfolio/static/js/main.d05acfb3.js.map"
+    "main.eedc6055.css.map": "/KarthiProtfolio/static/css/main.eedc6055.css.map",
+    "main.c36f6a70.js.map": "/KarthiProtfolio/static/js/main.c36f6a70.js.map"
   },
   "entrypoints": [
-    "static/css/main.154d7fd3.css",
-    "static/js/main.d05acfb3.js"
+    "static/css/main.eedc6055.css",
+    "static/js/main.c36f6a70.js"
   ]
 }
