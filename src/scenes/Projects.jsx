@@ -44,6 +44,7 @@ const Project = ({ title, subTitle, onClick }) => {
       <img
         src={`${process.env.PUBLIC_URL}/assets/${projectTitle}.jpg`}
         alt={projectTitle}
+        loading="lazy"
         className="w-full h-auto object-cover rounded-md shadow-md"
       />
     </motion.div>
