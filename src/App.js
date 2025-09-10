@@ -84,7 +84,7 @@ function App() {
           <Testimonials />
         </motion.div>
       </div>
-      <div className="mt-10 md:mt-28 ">
+      <div className="mt-10 md:mt-56 ">
       <LineGradient />
 
       </div>
